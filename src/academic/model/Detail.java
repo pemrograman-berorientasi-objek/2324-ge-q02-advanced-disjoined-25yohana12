@@ -71,4 +71,3 @@ public class Detail {
         this.totalCredit = totalCredit;
     }
 }
- 

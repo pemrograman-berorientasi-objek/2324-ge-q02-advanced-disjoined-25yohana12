@@ -40,4 +40,3 @@ public class Student implements Actor {
         return prodi;
     }
 }
- 

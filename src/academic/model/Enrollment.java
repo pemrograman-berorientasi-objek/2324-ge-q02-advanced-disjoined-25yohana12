@@ -62,4 +62,3 @@ public class Enrollment {
         this.cek = _cek;
     }
 }
- 

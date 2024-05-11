@@ -40,4 +40,3 @@ public class Lecturer implements Actor {
         return studyprogram;
     }
 }
- 
